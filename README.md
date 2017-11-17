@@ -5,10 +5,10 @@ Yi Zhang (yi dot zhang at uky dot edu)
 
 ***
 ## Table of Contents
-* [Introduction](https://github.com/zhangyimc/DeepSplice/blob/master/README.md#introduction)
-* [Prerequisites](https://github.com/zhangyimc/DeepSplice/blob/master/README.md#prerequisites)
-* [Usage](https://github.com/zhangyimc/DeepSplice/blob/master/README.md#usage)
-* [Data](https://github.com/zhangyimc/DeepSplice/blob/master/README.md#data)
+* [Introduction](https://github.com/zhangyimc/DeepTF/blob/master/README.md#introduction)
+* [Prerequisites](https://github.com/zhangyimc/DeepTF/blob/master/README.md#prerequisites)
+* [Usage](https://github.com/zhangyimc/DeepTF/blob/master/README.md#usage)
+* [Data](https://github.com/zhangyimc/DeepTF/blob/master/README.md#data)
 ***
 
 ## Introduction
@@ -22,8 +22,8 @@ The advancement in Stable Isotope Resolved Metabolomics (SIRM) provides a new ap
 * [MPI for Python](http://mpi4py.scipy.org/docs/)
 
 ## Usage
-### I. Feature selection
-### II. 
-### III. 
+### Step I. Selecting top candidate transcription factors.
+### Step II. Learning transcription factor-gene regulations.
+### Step III. Uncovering transcription factors governing metabolic reprogramming.
 
 ## Data
